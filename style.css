@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    width: 1500px; 
+    height: 50px;
+    background-color: gainsboro;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.Discover{
+    padding-top: 50px;
+    margin-left: 100px;
+    font-weight: 900;
+    font-size: 45px;
+    
+}
+
+.our{
+    margin-left: 80px;
+    padding: 20px;
+    font-size: 25px;
+    margin-top: -100px;
+}
+
+#links{
+    margin-left: 450px;
+    text-decoration: none;
+    transform: translateY(-80px);
+    color: gray;
+    
+}
+
+#links a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.Hyra{
+    margin-left: 30px;
+    padding: 30px;
+    font-size: 30px;
+    transform: translateY(-25px);
+    color: blue;
+
+}
+
+#Links2{
+
+}
+
+.SignUp{
+    transform: translateY(-95px);
+    margin-left: 1000px;
+    border-color: blue;
+}
+
+.SignUp a{
+    text-decoration: none;
+}
+
+.LogIn{
+    transform: translateY(-120px);
+    margin-left: 1100px;
+    background-color: blue;
+    width: 65px;
+    height: 35px;
+    border-radius: 10px;
+    
+}
+
+.LogIn a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.SectionA{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Image{
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+    margin-left: 350px;
+    margin-top: 100px;
+
+}
+
+.Why{
+    text-align: center;
+    margin-top: 50px;
+    /* transform: translateY(-300px); */
+    
+}
+
+.main{
+margin-left: 100px;
+display: flex;
+flex-wrap: wrap;
+margin-top: 50px;
+/* transform: translateY(-250px); */
+}
+
+.main div{
+    margin-left: 30px;
+}
+
+#blue{
+    background-color: blue;
+    height: 400px;
+    width: 220px;
+    border-radius: 20px;
+}
+
+#lightPink{
+    background-color: lightcoral;
+    height: 400px;
+    width: 220px;
+    border-radius: 20px;
+}
+
+#Pink{
+    background-color: deeppink;
+    height: 400px;
+    width: 220px;
+    border-radius: 20px;
+}
+
+#yellow{
+    background-color: yellow;
+    height: 400px;
+    width: 220px;
+    border-radius: 20px;
+}
+
+.Teachings{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 25px;
+}
+.teachings{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-top: 40px;
+
+}
+
+.teachings div{
+    margin-left: 20px;
+    border-radius: 20px;
+    border-style: double;
+    text-align: center;
+    font-size: 25px;
+
+}
+#pillars{
+  background-color: white;
+  height: 300px;
+    width: 280px;
+    border-color: black;
+
+}
+
+#articles{
+    background-color: white;
+    height: 300px;
+      width: 280px;
+      border-color: deeppink;
+
+}
+
+#stories{
+    background-color: white;
+    height: 300px;
+      width: 280px;
+      border-color: deeppink;
+
+}
+
+.ViewAll{
+    background-color: blue;
+    height: 60px;
+    width: 300px;
+    margin-left: 550px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+
+.ViewAll a{
+    color: white;
+    margin-left: 100px;
+    
+
+}
+
+
+
